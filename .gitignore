@@ -1,0 +1,8 @@
+.env
+.env.*
+node_modules/
+board/locks/
+team.json
+*.log
+.DS_Store
+.omc/
