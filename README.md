@@ -106,4 +106,4 @@ It will ask for an explicit yes before deploying, pushing to `main`, deleting th
 
 ## Credits and licensing
 The Discord bridge is Anthropic's official plugin (not part of this repo). `scripts/board.sh` and the skills here are original to this repo.
-Add a `LICENSE` file before publishing it.
+Licensed under the MIT License (see `LICENSE`).
