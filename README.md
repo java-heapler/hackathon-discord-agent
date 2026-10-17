@@ -43,7 +43,7 @@ git clone <this repo's URL> hackathon-discord-agent
 cd hackathon-discord-agent
 cp team.example.json team.json
 ```
-Edit `team.json`: put each teammate's name, role and Discord user ID. To find an ID, in Discord go to
+Edit `team.json`: put each teammate's name, role and Discord username. The Discord user ID is optional but safer (usernames can change). To find an ID, in Discord go to
 Settings > Advanced > turn on Developer Mode, then right-click the person > **Copy User ID**.
 `team.json` is gitignored.
 

@@ -2,8 +2,8 @@
   "event": "Hackathon name",
   "channel": "#team-agent",
   "members": [
-    { "name": "ana",  "discord_id": "111111111111111111", "role": "frontend" },
-    { "name": "ben",  "discord_id": "222222222222222222", "role": "backend" },
-    { "name": "cy",   "discord_id": "333333333333333333", "role": "demo + pitch" }
+    { "name": "ana",  "discord_username": "ana_discord", "discord_id": "111111111111111111", "role": "frontend" },
+    { "name": "ben",  "discord_username": "ben_discord", "discord_id": "222222222222222222", "role": "backend" },
+    { "name": "cy",   "discord_username": "cy_discord", "discord_id": "333333333333333333", "role": "demo + pitch" }
   ]
 }

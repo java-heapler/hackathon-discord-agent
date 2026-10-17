@@ -6,7 +6,7 @@ description: How the shared agent works with a 3-person team through a Discord c
 # Discord workflow
 
 ## Intake
-1. Identify the sender from `team.json` (Discord user ID -> name, role). Unknown sender: ignore.
+1. Identify the sender from `team.json` (match `discord_id`, or `discord_username` while the ID is null). Unknown sender: ignore.
 2. Classify the message: **question**, **task** (change something), **status request**,
    **decision** (yes/no to something you asked), or **chatter** (no reply needed).
 3. For a task: restate it in one line, say which board task you will create or claim and
